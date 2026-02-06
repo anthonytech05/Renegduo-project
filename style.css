@@ -19,10 +19,10 @@ ul li a{
 
 }
 
-.link li a:hover{
+/* .link li a:hover{
     text-decoration: underline;
     color: blue;
-}
+} */
 
 nav{
     display: flex;
